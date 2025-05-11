@@ -89,6 +89,8 @@ The signal logic determines which road gets the green light based on traffic den
 Additional functionalities, such as helmet detection, triple riding detection, accident detection, and heatmap visualization, can be triggered via the 2x2 grid interface.
 
 Dynamic signal controlling ensures smoother traffic flow by prioritizing roads with higher vehicle density.
+# Note
+1.All output images are in form of .png
 
 # Future Enhancements
 
@@ -100,8 +102,8 @@ Expand functionality for additional violations like overspeeding.
 
 Improve UI/UX for better interaction.
 
-# Note
-Make Sure that you are connecting with the internet so that all the required files and model's should be download in you system.
+
+1.Make Sure that you are connecting with the internet so that all the required files and model's should be download in you system.
 
 # License
 
